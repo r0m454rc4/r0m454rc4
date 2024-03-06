@@ -15,5 +15,3 @@ I'm Romà Sardá Casellas, a student from Barcelona, Spain.
 ### :fire: My Stats :
 
 [![Romasarca's github stats](https://github-readme-stats.vercel.app/api?username=romasarca&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romasarca&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romasarca&theme=dark&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
