@@ -4,7 +4,7 @@ I'm Romà Sardá Casellas, a student from Barcelona, Spain.
 
 - :penguin: Linux enthusiast and daily user of Arch Linux.
 
-- :telescope: I’m currently studying Web Development at Jesuïtes Educació, Barcelona.
+- :telescope: I’m currently studying International Computer Engineering at La Salle URL, Barcelona.
 
 - :seedling: Interested in AI, Deep Learning, Big Data and Robotics.
 
