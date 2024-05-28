@@ -15,7 +15,7 @@ I'm Romà Sardá Casellas, a student from Barcelona, Spain.
 [![r0m454rc4's github stats](https://github-readme-stats.vercel.app/api?username=r0m454rc4&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0m454rc4&layout=compact&theme=onedark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-### :clapper: Favorite Anime Films
+### :clapper: Favorite Anime Films:
 
 - **Spirited Away** :pig: :dragon: :rainbow:
 - **My Neighbor Totoro** :girl: :open_umbrella: :cat:
@@ -23,12 +23,12 @@ I'm Romà Sardá Casellas, a student from Barcelona, Spain.
 - **Princess Mononoke** :evergreen_tree: :crown: :wolf:
 - **Howl's Moving Castle** :european_castle: :fire: :mage_man:
 
-### :penguin: My Setup
+### :penguin: My Setup:
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-## Connect with Me
+## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/romasarca)
