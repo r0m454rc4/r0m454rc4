@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Anime Banner](https://example.com/your-anime-banner-image.jpg)
-
 ### :man_technologist: About Me:
 
 I'm Romà Sardá Casellas, a student from Barcelona, Spain.
